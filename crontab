@@ -1,0 +1,1 @@
+0 */2 * * * /usr/pgsql-11/bin/psql -d trackdb -f insert_recs.sql
